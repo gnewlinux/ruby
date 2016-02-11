@@ -1,4 +1,5 @@
-var1 = "Quantas caracteres existem nessa frase contando com os espaços?"
-var2 = var1.length
+puts "Qual o seu nome? "
+nome = gets.chomp
 
-puts var1 + var2.to_s
+puts "Seu nome é " + nome
+puts "A quantidade de caracteres do seu nome é " + nome.length.to_s
