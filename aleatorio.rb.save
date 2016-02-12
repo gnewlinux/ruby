@@ -1,0 +1,14 @@
+puts rand
+puts rand
+puts rand.to_i
+puts (rand(100))
+
+
+srand 111
+puts(rand(100))
+puts(rand(100))
+puts(rand(100))srand 111
+puts(rand(100))
+puts(rand(100))
+puts(rand(100))
+
